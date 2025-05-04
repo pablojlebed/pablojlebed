@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on front-end development
 - 📫 How to reach me: contact@pablolebed.dev
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am older that I look :older_man:
+- ⚡ Fun fact: I am smarter that I look 🤓
 
 <!---
 pablojlebed/pablojlebed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
