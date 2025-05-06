@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pablo
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front-end tools
-- 🌎 I translate 🇬🇧🇪🇸 docs at [Electron](https://github.com/electron)
+- 🌎 I translate 🇬🇧🇪🇸 docs at [freeCodeCamp](https://freecodecamp.org)
 - 💞️ I’m looking to collaborate on front-end development
 - 📫 How to reach me: contact@pablolebed.dev
 - 😄 Pronouns: he/him
